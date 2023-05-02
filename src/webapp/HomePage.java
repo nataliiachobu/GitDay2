@@ -5,4 +5,7 @@ public class HomePage {
     //Setting up homePage from local git branch natalie
 
     //another changes
+    //add more things
+
+    //footer
 }
