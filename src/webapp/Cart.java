@@ -5,4 +5,5 @@ public class Cart {
     //total
 
     //added new deals
+    //new changes to Cart class
 }
